@@ -5,6 +5,8 @@ var people = 2;
 var day = 1;
 var temperature = 75;
 
+
+
 document.getElementById("day").textContent = "Week " + day;
 document.getElementById("distance").textContent = "Distance: " + distance;
             document.getElementById("food").textContent = "Food: " + food;
