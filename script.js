@@ -1,4 +1,4 @@
-var distance = 10;
+var distance = 750;
 var hunger = 20;
 var food = 10;
 var people = 2;
